@@ -1,0 +1,51 @@
+#logout {
+    margin-left: 1000px;
+}
+
+#username {
+    color: white;
+}
+
+body
+{
+background-color:skyblue;
+}
+
+
+.header
+{
+	color: white;
+    font-family: 'Yeon Sung'; 
+    letter-spacing: 10px;
+    margin-left: 75px;
+}
+
+.header img
+{
+	width: 100px;
+}
+
+.logo
+{
+	width: 80px;
+    margin-top: 30px;
+    border-radius: 100px;
+    margin-left: 20px;
+}
+
+#output
+{
+	padding: 10px; 
+    background-color:khaki;
+    border-radius:25px;
+    width: 950px;
+    
+}
+
+
+.login_div
+{
+	background-color:palegreen ;
+    float: none;
+    border-radius: 25px;
+}
